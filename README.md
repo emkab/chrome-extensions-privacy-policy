@@ -20,4 +20,4 @@ By using my Google Chrome Extensions, you signify your consent and agreement to 
 
 ## Feedback
 
-If you have questions or concerns about this Privacy Policy, you can contact me by [email](mailto:extensiondeveloper314@gmail.com).
+If you have questions or concerns about this Privacy Policy, you can contact me by [email](mailto:contact@emkab.dev).
